@@ -1,0 +1,14 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "3EdMEw8xIBLwosk5iNysT"
+uri = "file://gyantechnet.tar.gz"
+type = "unspecified"
+title = "GyanTechNet — Full Source Code"
+
+[[outputs]]
+id = "r9utMalLucSEXJdhbmGVY"
+uri = "file://gyantechnet.zip"
+type = "unspecified"
+title = "GyanTechNet — GitHub ZIP (2MB, 256 files)"
